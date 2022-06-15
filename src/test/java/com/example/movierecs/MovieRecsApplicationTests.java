@@ -1,10 +1,10 @@
-package com.jgamble.springapp;
+package com.example.movierecs;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringAppApplicationTests {
+class MovieRecsApplicationTests {
 
 	@Test
 	void contextLoads() {
